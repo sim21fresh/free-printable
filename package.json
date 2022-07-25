@@ -1,20 +1,20 @@
 {
-  "name": "parlay-bola-deposit-dana",
-  "main": "./gundol/atom/250722/parlay-bola-deposit-dana",
+  "name": "poker-pulsa-hoki",
+  "main": "./gundol/atom/250722/poker-pulsa-gacor",
   "version": "1.23.1",
-  "description": "SBOBET dana: Situs Judi Bola Parlay Deposit dana Tanpa Potongan Gacor",
+  "description": "IDNPOKER PULSA: Situs Poker QQ Ceme Online Deposit Pulsa Tanpa Potongan Gacor",
   "keywords": [
-    "parlay bola Deposit dana 5000",
-    "parlay bola Deposit Via dana 5000",
-    "Situs parlay bola Deposit dana",
-    "parlay bola Deposit dana",
-    "parlay bola Via dana 5ribu",
-    "parlay bola Deposit dana Tanpa Potongan"
+    "Poker Deposit Pulsa 5000",
+    "Poker Deposit Via Pulsa 5000",
+    "Situs Poker Deposit Pulsa",
+    "Poker Deposit Pulsa",
+    "Poker Via Pulsa 5ribu",
+    "Poker Deposit Pulsa Tanpa Potongan"
   ],
   "activationCommands": {
-    "atom-workspace": "parlay-bola-deposit-dana-resmi:toggle"
+    "atom-workspace": "poker-pulsa-gacor-resmi:toggle"
   },
-  "repository": "https://github.com/gundolgundol/parlqay-bola-deposit-dana.git",
+  "repository": "https://github.com/gundolgundol/poker-pulsa-gacor.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
