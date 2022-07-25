@@ -1,20 +1,20 @@
 {
-  "name": "slot-ovo-resmi",
-  "main": "./gundol/atom/250722/slot-ovo-resmi",
+  "name": "parlay-bola-via-pulsa",
+  "main": "./gundol/atom/250722/parlay-bola-deposit-pulsa",
   "version": "1.21.1",
-  "description": "Judi Slot Deposit Via OVO 24 Jam Terpercaya",
+  "description": "SBOBET PULSA: Situs Judi Bola Parlay Deposit Pulsa Tanpa Potongan Gacor",
   "keywords": [
-    "Slot Deposit ovo 5000",
-    "Slot Deposit Via ovo 5000",
-    "Situs Slot Deposit ovo",
-    "Slot Deposit ovo",
-    "Slot Via ovo 5ribu",
-    "Slot Deposit ovo Tanpa Potongan"
+    "parlay bola Deposit ovo 5000",
+    "parlay bola Deposit Via ovo 5000",
+    "Situs parlay bola Deposit ovo",
+    "parlay bola Deposit ovo",
+    "parlay bola Via ovo 5ribu",
+    "parlay bola Deposit ovo Tanpa Potongan"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-deposit-ovo-resmi:toggle"
+    "atom-workspace": "parlay-bola-deposit-pulsa-resmi:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-ovo-resmi.git",
+  "repository": "https://github.com/gundolgundol/parlay-bola-deposit-pulsa.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
