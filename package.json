@@ -1,0 +1,22 @@
+{
+  "name": "slot-pulsa-hoki",
+  "main": "./gundol/atom/250722/slot-pulsa-tanpa-potongan",
+  "version": "1.17.1",
+  "description": "SLOT88 : Situs Judi Slot Deposit Pulsa Gacor Tanpa Potongan | Situs Slot Depo Via Pulsa Resmi Dan Terbaru | Slot Deposit Pulsa Gacor Hari Ini Gampang Menang Maxwin",
+  "keywords": [
+    "Slot Deposit Pulsa 5000",
+    "Slot Deposit Via Pulsa 5000",
+    "Situs Slot Deposit Pulsa",
+    "Slot Deposit Pulsa",
+    "Slot Via Pulsa 5ribu",
+    "Slot Deposit Pulsa Tanpa Potongan"
+  ],
+  "activationCommands": {
+    "atom-workspace": "slot-deposit-pulsa-tanpa-potongan:toggle"
+  },
+  "repository": "https://github.com/gundolgundol/slot-pulsa-hoki.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
