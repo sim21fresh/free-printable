@@ -1,20 +1,20 @@
 {
-  "name": "slot-pulsa-resmi",
-  "main": "./gundol/atom/250722/slot-pulsa-tanpa-potongan",
+  "name": "slot-dana-resmi",
+  "main": "./gundol/atom/250722/slot-dana-resmi",
   "version": "1.18.1",
-  "description": "SLOT88 : Situs Judi Slot Deposit Pulsa Gacor Tanpa Potongan | Situs Slot Depo Via Pulsa Resmi Dan Terbaru | Slot Deposit Pulsa Gacor Hari Ini Gampang Menang Maxwin",
+  "description": "Link Situs Slot Deposit 5000 10rb Pakai Dana Tanpa Potongan",
   "keywords": [
-    "Slot Deposit Pulsa 5000",
-    "Slot Deposit Via Pulsa 5000",
-    "Situs Slot Deposit Pulsa",
-    "Slot Deposit Pulsa",
-    "Slot Via Pulsa 5ribu",
-    "Slot Deposit Pulsa Tanpa Potongan"
+    "Slot Deposit Dana 5000",
+    "Slot Deposit Via Dana 5000",
+    "Situs Slot Deposit Dana",
+    "Slot Deposit Dana",
+    "Slot Via Dana 5ribu",
+    "Slot Deposit Dana Tanpa Potongan"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-deposit-pulsa-tanpa-potongan:toggle"
+    "atom-workspace": "slot-deposit-dana-resmi:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-pulsa-hoki.git",
+  "repository": "https://github.com/gundolgundol/slot-dana-resmi.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
