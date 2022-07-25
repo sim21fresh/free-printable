@@ -1,20 +1,20 @@
 {
-  "name": "slot-linkaja-resmi",
-  "main": "./gundol/atom/250722/slot-linkaja-resmi",
+  "name": "slot-gopay-hoki",
+  "main": "./gundol/atom/250722/slot-gopay-resmi",
   "version": "1.20.1",
-  "description": "Situs Slot Online Terpercaya Deposit Via Linkaja",
+  "description": "Link Daftar Slot Deposit Pakai GOPAY 5000 Resmi Indonesia",
   "keywords": [
-    "Slot Deposit linkaja 5000",
-    "Slot Deposit Via linkaja 5000",
-    "Situs Slot Deposit linkaja",
-    "Slot Deposit linkaja",
-    "Slot Via linkaja 5ribu",
-    "Slot Deposit linkaja Tanpa Potongan"
+    "Slot Deposit gopay 5000",
+    "Slot Deposit Via gopay 5000",
+    "Situs Slot Deposit gopay",
+    "Slot Deposit gopay",
+    "Slot Via gopay 5ribu",
+    "Slot Deposit gopay Tanpa Potongan"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-deposit-linkaja-resmi:toggle"
+    "atom-workspace": "slot-deposit-gopay-resmi:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-linkaja-resmi.git",
+  "repository": "https://github.com/gundolgundol/slot-gopay-resmi.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
