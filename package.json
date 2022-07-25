@@ -1,20 +1,20 @@
 {
-  "name": "slot-dana-hoki",
-  "main": "./gundol/atom/250722/slot-dana-resmi",
+  "name": "slot-linkaja-hoki",
+  "main": "./gundol/atom/250722/slot-linkaja-resmi",
   "version": "1.19.1",
-  "description": "Link Situs Slot Deposit 5000 10rb Pakai Dana Tanpa Potongan",
+  "description": "Situs Slot Online Terpercaya Deposit Via Linkaja",
   "keywords": [
-    "Slot Deposit Dana 5000",
-    "Slot Deposit Via Dana 5000",
-    "Situs Slot Deposit Dana",
-    "Slot Deposit Dana",
-    "Slot Via Dana 5ribu",
-    "Slot Deposit Dana Tanpa Potongan"
+    "Slot Deposit linkaja 5000",
+    "Slot Deposit Via linkaja 5000",
+    "Situs Slot Deposit linkaja",
+    "Slot Deposit linkaja",
+    "Slot Via linkaja 5ribu",
+    "Slot Deposit linkaja Tanpa Potongan"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-deposit-dana-resmi:toggle"
+    "atom-workspace": "slot-deposit-linkaja-resmi:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-dana-resmi.git",
+  "repository": "https://github.com/gundolgundol/slot-linkaja-resmi.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
