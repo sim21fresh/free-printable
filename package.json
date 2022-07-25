@@ -1,20 +1,20 @@
 {
-  "name": "slot-gopay-resmi",
-  "main": "./gundol/atom/250722/slot-gopay-resmi",
+  "name": "slot-ovo-hoki",
+  "main": "./gundol/atom/250722/slot-ovo-resmi",
   "version": "1.20.2",
-  "description": "Link Daftar Slot Deposit Pakai GOPAY 5000 Resmi Indonesia",
+  "description": "Judi Slot Deposit Via OVO 24 Jam Terpercaya",
   "keywords": [
-    "Slot Deposit gopay 5000",
-    "Slot Deposit Via gopay 5000",
-    "Situs Slot Deposit gopay",
-    "Slot Deposit gopay",
-    "Slot Via gopay 5ribu",
-    "Slot Deposit gopay Tanpa Potongan"
+    "Slot Deposit ovo 5000",
+    "Slot Deposit Via ovo 5000",
+    "Situs Slot Deposit ovo",
+    "Slot Deposit ovo",
+    "Slot Via ovo 5ribu",
+    "Slot Deposit ovo Tanpa Potongan"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-deposit-gopay-resmi:toggle"
+    "atom-workspace": "slot-deposit-ovo-resmi:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-gopay-resmi.git",
+  "repository": "https://github.com/gundolgundol/slot-ovo-resmi.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
