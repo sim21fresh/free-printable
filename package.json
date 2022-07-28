@@ -1,21 +1,21 @@
 {
-  "name": "slot-deposit-bca-mudah-menang",
-  "main": "./gundol/atom/280722/slot-bca-mudah-menang",
+  "name": "slot-deposit-sakuku-gampang-menang",
+  "main": "./gundol/atom/280722/slot-sakuku-mudah-menang",
   "version": "1.30.1",
-  "description": "Daftar Situs Judi Slot Bank BCA 24 Jam Online Terpercaya 2022",
+  "description": "Daftar Slot Via Sakuku Situs Agen Slot Indonesia 24Jam",
   "keywords": [
-    "Slot Deposit bca 5000",
-    "Slot Deposit Via bca 5000",
-    "Situs Slot Deposit bca",
-    "Slot Deposit bca",
-    "Slot Via bca 5ribu",
-    "Slot Deposit bca Tanpa Potongan",
-    "Slot Deposit bca Mudah Menang"
+    "Slot Deposit sakuku 5000",
+    "Slot Deposit Via sakuku 5000",
+    "Situs Slot Deposit sakuku",
+    "Slot Deposit sakuku",
+    "Slot Via sakuku 5ribu",
+    "Slot Deposit sakuku Tanpa Potongan",
+    "Slot Deposit sakuku Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-online-deposit-bca-mudah-menang:toggle"
+    "atom-workspace": "slot-online-deposit-sakuku-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-bca-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/slot-sakuku-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
