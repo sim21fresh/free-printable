@@ -1,21 +1,21 @@
 {
-  "name": "slot-deposit-dana-mudah-menang",
-  "main": "./gundol/atom/280722/slot-dana-mudah-menang",
+  "name": "slot-deposit-linkaja-gampang-menang",
+  "main": "./gundol/atom/280722/slot-linkaja-mudah-menang",
   "version": "1.26.1",
-  "description": "Situs Slot Deposit dana Paling Gacor dan Terpercaya 2022",
+  "description": "Situs Slot Online Deposit Linkaja Terpercaya Gacor",
   "keywords": [
-    "Poker Deposit dana 5000",
-    "Poker Deposit Via dana 5000",
-    "Situs Poker Deposit dana",
-    "Poker Deposit dana",
-    "Poker Via dana 5ribu",
-    "Poker Deposit dana Tanpa Potongan",
-    "Slot Deposit dana Mudah Menang"
+    "Poker Deposit linkaja 5000",
+    "Poker Deposit Via linkaja 5000",
+    "Situs Poker Deposit linkaja",
+    "Poker Deposit linkaja",
+    "Poker Via linkaja 5ribu",
+    "Poker Deposit linkaja Tanpa Potongan",
+    "Slot Deposit linkaja Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-online-deposit-dana-mudah-menang:toggle"
+    "atom-workspace": "slot-online-deposit-linkaja-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-dana-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/slot-linkaja-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
