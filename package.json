@@ -1,21 +1,21 @@
 {
-  "name": "parlay-deposit-gopay-mudah-menang",
-  "main": "./gundol/atom/280722/parlay-gopay-mudah-menang",
+  "name": "parlay-deposit-ovo-gampang-menang",
+  "main": "./gundol/atom/280722/parlay-ovo-mudah-menang",
   "version": "1.38.1",
-  "description": "Situs Judi Parlay Bola Jitu Deposit Via Gopay 5000 Bebas Potongan",
+  "description": "Daftar Link Situs Judi Parlay Bola Online Deposit Via Ovo 10 Ribu",
   "keywords": [
-    "parlay Deposit gopay 5000",
-    "parlay Deposit Via gopay 5000",
-    "Situs parlay Deposit gopay",
-    "parlay Deposit gopay",
-    "parlay Via gopay 5ribu",
-    "parlay Deposit gopay Tanpa Potongan",
-    "parlay Deposit gopay Mudah Menang"
+    "parlay Deposit ovo 5000",
+    "parlay Deposit Via ovo 5000",
+    "Situs parlay Deposit ovo",
+    "parlay Deposit ovo",
+    "parlay Via ovo 5ribu",
+    "parlay Deposit ovo Tanpa Potongan",
+    "parlay Deposit ovo Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "parlay-online-deposit-gopay-mudah-menang:toggle"
+    "atom-workspace": "parlay-online-deposit-ovo-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/parlay-gopay-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/parlay-ovo-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
