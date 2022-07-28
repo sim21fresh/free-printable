@@ -1,21 +1,21 @@
 {
-  "name": "slot-deposit-shopeepay-mudah-menang",
-  "main": "./gundol/atom/280722/slot-shopeepay-mudah-menang",
+  "name": "poker-deposit-pulsa-gampang-menang",
+  "main": "./gundol/atom/280722/poker-pulsa-mudah-menang",
   "version": "1.33.1",
-  "description": "Agen Judi Slot Shopeepay Deposit 5000 Mudah Menang",
+  "description": "Situs Slot Deposit Pulsa Paling Gacor dan Terpercaya 2022",
   "keywords": [
-    "Slot Deposit shopeepay 5000",
-    "Slot Deposit Via shopeepay 5000",
-    "Situs Slot Deposit shopeepay",
-    "Slot Deposit shopeepay",
-    "Slot Via shopeepay 5ribu",
-    "Slot Deposit shopeepay Tanpa Potongan",
-    "Slot Deposit shopeepay Mudah Menang"
+    "Poker Deposit pulsa 5000",
+    "Poker Deposit Via pulsa 5000",
+    "Situs Poker Deposit pulsa",
+    "Poker Deposit pulsa",
+    "Poker Via pulsa 5ribu",
+    "Poker Deposit pulsa Tanpa Potongan",
+    "Poker Deposit pulsa Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-online-deposit-shopeepay-mudah-menang:toggle"
+    "atom-workspace": "poker-online-deposit-pulsa-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-shopeepay-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/poker-pulsa-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
