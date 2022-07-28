@@ -1,21 +1,21 @@
 {
-  "name": "slot-deposit-pulsa-mudah-menang",
-  "main": "./gundol/atom/280722/slot-pulsa-mudah-menang",
+  "name": "slot-deposit-dana-gampang-menang",
+  "main": "./gundol/atom/280722/slot-dana-mudah-menang",
   "version": "1.25.1",
-  "description": "Situs Slot Deposit Pulsa Paling Gacor dan Terpercaya 2022",
+  "description": "Situs Slot Deposit dana Paling Gacor dan Terpercaya 2022",
   "keywords": [
-    "Poker Deposit Pulsa 5000",
-    "Poker Deposit Via Pulsa 5000",
-    "Situs Poker Deposit Pulsa",
-    "Poker Deposit Pulsa",
-    "Poker Via Pulsa 5ribu",
-    "Poker Deposit Pulsa Tanpa Potongan",
-    "Slot Deposit Pulsa Mudah Menang"
+    "Poker Deposit dana 5000",
+    "Poker Deposit Via dana 5000",
+    "Situs Poker Deposit dana",
+    "Poker Deposit dana",
+    "Poker Via dana 5ribu",
+    "Poker Deposit dana Tanpa Potongan",
+    "Slot Deposit dana Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-online-deposit-pulsa-mudah-menang:toggle"
+    "atom-workspace": "slot-online-deposit-dana-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-pulsa-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/slot-dana-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
