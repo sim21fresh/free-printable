@@ -1,21 +1,21 @@
 {
-  "name": "parlay-deposit-pulsa-mudah-menang",
-  "main": "./gundol/atom/280722/parlay-pulsa-mudah-menang",
+  "name": "parlay-deposit-dana-gampang-menang",
+  "main": "./gundol/atom/280722/parlay-dana-mudah-menang",
   "version": "1.35.1",
-  "description": "Situs Parlay Bola Deposit Pulsa Paling Gacor dan Terpercaya 2022",
+  "description": "Situs Daftar Akun Mix Parlay Online Deposit Dana Pulsa Terbaru",
   "keywords": [
-    "parlay Deposit pulsa 5000",
-    "parlay Deposit Via pulsa 5000",
-    "Situs parlay Deposit pulsa",
-    "parlay Deposit pulsa",
-    "parlay Via pulsa 5ribu",
-    "parlay Deposit pulsa Tanpa Potongan",
-    "parlay Deposit pulsa Mudah Menang"
+    "parlay Deposit dana 5000",
+    "parlay Deposit Via dana 5000",
+    "Situs parlay Deposit dana",
+    "parlay Deposit dana",
+    "parlay Via dana 5ribu",
+    "parlay Deposit dana Tanpa Potongan",
+    "parlay Deposit dana Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "parlay-online-deposit-pulsa-mudah-menang:toggle"
+    "atom-workspace": "parlay-online-deposit-dana-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/parlay-pulsa-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/parlay-dana-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
