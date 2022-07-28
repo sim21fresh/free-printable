@@ -1,21 +1,21 @@
 {
-  "name": "slot-deposit-qris-mudah-menang",
-  "main": "./gundol/atom/280722/slot-qris-mudah-menang",
+  "name": "slot-deposit-shopeepay-gampang-menang",
+  "main": "./gundol/atom/280722/slot-shopeepay-mudah-menang",
   "version": "1.32.1",
-  "description": "Situs Judi Slot Deposit QRIS Tanpa Biaya Potongan 2022",
+  "description": "Agen Judi Slot Shopeepay Deposit 5000 Mudah Menang",
   "keywords": [
-    "Slot Deposit qris 5000",
-    "Slot Deposit Via qris 5000",
-    "Situs Slot Deposit qris",
-    "Slot Deposit qris",
-    "Slot Via qris 5ribu",
-    "Slot Deposit qris Tanpa Potongan",
-    "Slot Deposit qris Mudah Menang"
+    "Slot Deposit shopeepay 5000",
+    "Slot Deposit Via shopeepay 5000",
+    "Situs Slot Deposit shopeepay",
+    "Slot Deposit shopeepay",
+    "Slot Via shopeepay 5ribu",
+    "Slot Deposit shopeepay Tanpa Potongan",
+    "Slot Deposit shopeepay Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-online-deposit-qris-mudah-menang:toggle"
+    "atom-workspace": "slot-online-deposit-shopeepay-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-qris-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/slot-shopeepay-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
