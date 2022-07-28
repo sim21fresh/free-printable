@@ -1,21 +1,21 @@
 {
-  "name": "poker-deposit-pulsa-mudah-menang",
-  "main": "./gundol/atom/280722/poker-pulsa-mudah-menang",
+  "name": "parlay-deposit-pulsa-gampang-menang",
+  "main": "./gundol/atom/280722/parlay-pulsa-mudah-menang",
   "version": "1.34.1",
-  "description": "Situs Slot Deposit Pulsa Paling Gacor dan Terpercaya 2022",
+  "description": "Situs Parlay Bola Deposit Pulsa Paling Gacor dan Terpercaya 2022",
   "keywords": [
-    "Poker Deposit pulsa 5000",
-    "Poker Deposit Via pulsa 5000",
-    "Situs Poker Deposit pulsa",
-    "Poker Deposit pulsa",
-    "Poker Via pulsa 5ribu",
-    "Poker Deposit pulsa Tanpa Potongan",
-    "Poker Deposit pulsa Mudah Menang"
+    "parlay Deposit pulsa 5000",
+    "parlay Deposit Via pulsa 5000",
+    "Situs parlay Deposit pulsa",
+    "parlay Deposit pulsa",
+    "parlay Via pulsa 5ribu",
+    "parlay Deposit pulsa Tanpa Potongan",
+    "parlay Deposit pulsa Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "poker-online-deposit-pulsa-mudah-menang:toggle"
+    "atom-workspace": "parlay-online-deposit-pulsa-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/poker-pulsa-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/parlay-pulsa-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
