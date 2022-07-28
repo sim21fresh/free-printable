@@ -1,21 +1,21 @@
 {
-  "name": "slot-deposit-gopay-mudah-menang",
-  "main": "./gundol/atom/280722/slot-gopay-mudah-menang",
+  "name": "slot-deposit-ovo-mudah-menang",
+  "main": "./gundol/atom/280722/slot-ovo-mudah-menang",
   "version": "1.28.1",
-  "description": "Situs Judi Slot Deposit Via Gopay 5000 Bebas Potongan",
+  "description": "Daftar Link Situs Judi Slot Online Deposit Via Ovo 10 Ribu",
   "keywords": [
-    "Poker Deposit gopay 5000",
-    "Poker Deposit Via gopay 5000",
-    "Situs Poker Deposit gopay",
-    "Poker Deposit gopay",
-    "Poker Via gopay 5ribu",
-    "Poker Deposit gopay Tanpa Potongan",
-    "Slot Deposit gopay Mudah Menang"
+    "Poker Deposit ovo 5000",
+    "Poker Deposit Via ovo 5000",
+    "Situs Poker Deposit ovo",
+    "Poker Deposit ovo",
+    "Poker Via ovo 5ribu",
+    "Poker Deposit ovo Tanpa Potongan",
+    "Slot Deposit ovo Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-online-deposit-gopay-mudah-menang:toggle"
+    "atom-workspace": "slot-online-deposit-ovo-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-gopay-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/slot-ovo--mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
