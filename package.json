@@ -1,21 +1,21 @@
 {
-  "name": "slot-deposit-linkaja-mudah-menang",
-  "main": "./gundol/atom/280722/slot-linkaja-mudah-menang",
+  "name": "slot-deposit-gopay-gampang-menang",
+  "main": "./gundol/atom/280722/slot-gopay-mudah-menang",
   "version": "1.27.1",
-  "description": "Situs Slot Online Deposit Linkaja Terpercaya Gacor",
+  "description": "Situs Judi Slot Deposit Via Gopay 5000 Bebas Potongan",
   "keywords": [
-    "Poker Deposit linkaja 5000",
-    "Poker Deposit Via linkaja 5000",
-    "Situs Poker Deposit linkaja",
-    "Poker Deposit linkaja",
-    "Poker Via linkaja 5ribu",
-    "Poker Deposit linkaja Tanpa Potongan",
-    "Slot Deposit linkaja Mudah Menang"
+    "Poker Deposit gopay 5000",
+    "Poker Deposit Via gopay 5000",
+    "Situs Poker Deposit gopay",
+    "Poker Deposit gopay",
+    "Poker Via gopay 5ribu",
+    "Poker Deposit gopay Tanpa Potongan",
+    "Slot Deposit gopay Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-online-deposit-linkaja-mudah-menang:toggle"
+    "atom-workspace": "slot-online-deposit-gopay-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-linkaja-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/slot-gopay-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
