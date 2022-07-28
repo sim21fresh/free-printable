@@ -1,20 +1,21 @@
 {
-  "name": "poker-pulsa-gacor",
-  "main": "./gundol/atom/250722/poker-pulsa-gacor",
+  "name": "slot-deposit-pulsa-gampang-menang",
+  "main": "./gundol/atom/280722/slot-pulsa-mudah-menang",
   "version": "1.24.1",
-  "description": "IDNPOKER PULSA: Situs Poker QQ Ceme Online Deposit Pulsa Tanpa Potongan Gacor",
+  "description": "Situs Slot Deposit Pulsa Paling Gacor dan Terpercaya 2022",
   "keywords": [
     "Poker Deposit Pulsa 5000",
     "Poker Deposit Via Pulsa 5000",
     "Situs Poker Deposit Pulsa",
     "Poker Deposit Pulsa",
     "Poker Via Pulsa 5ribu",
-    "Poker Deposit Pulsa Tanpa Potongan"
+    "Poker Deposit Pulsa Tanpa Potongan",
+    "Slot Deposit Pulsa Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "poker-pulsa-gacor-resmi:toggle"
+    "atom-workspace": "slot-online-deposit-pulsa-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/poker-pulsa-gacor.git",
+  "repository": "https://github.com/gundolgundol/slot-pulsa-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
