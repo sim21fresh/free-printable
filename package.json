@@ -1,21 +1,21 @@
 {
-  "name": "parlay-deposit-dana-mudah-menang",
-  "main": "./gundol/atom/280722/parlay-dana-mudah-menang",
+  "name": "parlay-deposit-linkaja-gampang-menang",
+  "main": "./gundol/atom/280722/parlay-linkaja-mudah-menang",
   "version": "1.36.1",
-  "description": "Situs Daftar Akun Mix Parlay Online Deposit Dana Pulsa Terbaru",
+  "description": "Situs Judi Bola Parlay Online Deposit Linkaja Terpercaya Gacor",
   "keywords": [
-    "parlay Deposit dana 5000",
-    "parlay Deposit Via dana 5000",
-    "Situs parlay Deposit dana",
-    "parlay Deposit dana",
-    "parlay Via dana 5ribu",
-    "parlay Deposit dana Tanpa Potongan",
-    "parlay Deposit dana Mudah Menang"
+    "parlay Deposit linkaja 5000",
+    "parlay Deposit Via linkaja 5000",
+    "Situs parlay Deposit linkaja",
+    "parlay Deposit linkaja",
+    "parlay Via linkaja 5ribu",
+    "parlay Deposit linkaja Tanpa Potongan",
+    "parlay Deposit linkaja Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "parlay-online-deposit-dana-mudah-menang:toggle"
+    "atom-workspace": "parlay-online-deposit-linkaja-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/parlay-dana-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/parlay-linkaja-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
