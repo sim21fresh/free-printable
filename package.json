@@ -1,21 +1,21 @@
 {
-  "name": "parlay-deposit-ovo-mudah-menang",
-  "main": "./gundol/atom/280722/parlay-ovo-mudah-menang",
+  "name": "parlay-deposit-bca-gampang-menang",
+  "main": "./gundol/atom/280722/parlay-bca-mudah-menang",
   "version": "1.39.1",
-  "description": "Daftar Link Situs Judi Parlay Bola Online Deposit Via Ovo 10 Ribu",
+  "description": "Daftar Situs Judi Bola Parlay Bank BCA 24 Jam Online Terpercaya 2022",
   "keywords": [
-    "parlay Deposit ovo 5000",
-    "parlay Deposit Via ovo 5000",
-    "Situs parlay Deposit ovo",
-    "parlay Deposit ovo",
-    "parlay Via ovo 5ribu",
-    "parlay Deposit ovo Tanpa Potongan",
-    "parlay Deposit ovo Mudah Menang"
+    "parlay Deposit bca 5000",
+    "parlay Deposit Via bca 5000",
+    "Situs parlay Deposit bca",
+    "parlay Deposit bca",
+    "parlay Via bca 5ribu",
+    "parlay Deposit bca Tanpa Potongan",
+    "parlay Deposit bca Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "parlay-online-deposit-ovo-mudah-menang:toggle"
+    "atom-workspace": "parlay-online-deposit-bca-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/parlay-ovo-mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/parlay-bca-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
