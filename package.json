@@ -1,21 +1,21 @@
 {
-  "name": "slot-deposit-ovo-gampang-menang",
-  "main": "./gundol/atom/280722/slot-ovo-mudah-menang",
+  "name": "slot-deposit-bca-gampang-menang",
+  "main": "./gundol/atom/280722/slot-bca-mudah-menang",
   "version": "1.29.1",
-  "description": "Daftar Link Situs Judi Slot Online Deposit Via Ovo 10 Ribu",
+  "description": "Daftar Situs Judi Slot Bank BCA 24 Jam Online Terpercaya 2022",
   "keywords": [
-    "Poker Deposit ovo 5000",
-    "Poker Deposit Via ovo 5000",
-    "Situs Poker Deposit ovo",
-    "Poker Deposit ovo",
-    "Poker Via ovo 5ribu",
-    "Poker Deposit ovo Tanpa Potongan",
-    "Slot Deposit ovo Mudah Menang"
+    "Slot Deposit bca 5000",
+    "Slot Deposit Via bca 5000",
+    "Situs Slot Deposit bca",
+    "Slot Deposit bca",
+    "Slot Via bca 5ribu",
+    "Slot Deposit bca Tanpa Potongan",
+    "Slot Deposit bca Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-online-deposit-ovo-mudah-menang:toggle"
+    "atom-workspace": "slot-online-deposit-bca-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/slot-ovo--mudah-menang.git",
+  "repository": "https://github.com/gundolgundol/slot-bca-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
