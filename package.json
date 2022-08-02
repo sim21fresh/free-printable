@@ -1,21 +1,21 @@
 {
-  "name": "agen-slot-pulsa-gacor",
-  "main": "./gundol/atom/020822/agen-slot-pulsa-gacor",
+  "name": "agen-parlay-bitcoin-hoki",
+  "main": "./gundol/atom/020822/agen-parlay-bitcoin-gacor",
   "version": "1.41.1",
-  "description": "Agen Slot Online Paling Gacor Deposit Via Pulsa Hari Ini",
+  "description": "Link Situs Judi Bola Parlay Deposit 5000 10rb Pakai Bitcoin Tanpa Potongan",
   "keywords": [
-    "Slot Deposit Pulsa 5000",
-    "Slot Deposit Via Pulsa 5000",
-    "Situs Slot Deposit Pulsa",
-    "Slot Deposit Pulsa",
-    "Slot Via Pulsa 5ribu",
-    "Slot Deposit Pulsa Tanpa Potongan",
-    "Slot Deposit Pulsa Mudah Menang"
+    "parlay Deposit bitcoin 5000",
+    "parlay Deposit Via bitcoin 5000",
+    "Situs parlay Deposit bitcoin",
+    "parlay Deposit bitcoin",
+    "parlay Via bitcoin 5ribu",
+    "parlay Deposit bitcoin Tanpa Potongan",
+    "parlay Deposit bitcoin Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "agen-slot-online-via-pulsa-gacor:toggle"
+    "atom-workspace": "agen-parlay-online-via-bitcoin-gacor:toggle"
   },
-  "repository": "https://github.com/gundolgundol/agen-slot-pulsa-gacor.git",
+  "repository": "https://github.com/gundolgundol/agen-parlay-bitcoin-gacor.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
