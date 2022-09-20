@@ -1,21 +1,21 @@
 {
-  "name": "slot-via-dana-mudah-menang",
-  "main": "./gundol/atom/020822/slot-via-pulsa-mudah-menang",
+  "name": "poker-via-pulsa-gampang-menang",
+  "main": "./gundol/atom/020822/poker-via-pulsa-mudah-menang",
   "version": "1.43.1",
-  "description": "Link Situs Judi Slot Online Paling Terbaik 2022",
+  "description": "Situs Bandar Judi Poker Online Deposit Pulsa Terbaik Indonesia",
   "keywords": [
-    "slot Deposit pulsa 5000",
-    "slot Deposit Via pulsa 5000",
-    "Situs slot Deposit pulsa",
-    "slot Deposit pulsa",
-    "slot Via pulsa 5ribu",
-    "slot Deposit pulsa Tanpa Potongan",
-    "slot Deposit pulsa Mudah Menang"
+    "IDN Poker Deposit pulsa 5000",
+    "IDN Poker Deposit Via pulsa 5000",
+    "Situs IDN Poker Deposit pulsa",
+    "IDN Poker Deposit pulsa",
+    "IDN Poker Via pulsa 5ribu",
+    "IDN Poker Deposit pulsa Tanpa Potongan",
+    "IDN Poker Deposit pulsa Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "agen-slot-online-via-pulsa-mudah-menang:toggle"
+    "atom-workspace": "agen-poker-online-via-pulsa-mudah-menang:toggle"
   },
-  "repository": "https://github.com/layssmix/slot-via-pulsa-mudah-menang.git",
+  "repository": "https://github.com/layssmix/poker-via-pulsa-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
