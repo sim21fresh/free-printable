@@ -1,21 +1,21 @@
 {
-  "name": "agen-parlay-bitcoin-gacor",
-  "main": "./gundol/atom/020822/agen-parlay-bitcoin-gacor",
+  "name": "slot-via-pulsa-gampang-menang",
+  "main": "./gundol/atom/020822/slot-via-pulsa-mudah-menang",
   "version": "1.42.1",
-  "description": "Link Situs Judi Bola Parlay Deposit 5000 10rb Pakai Bitcoin Tanpa Potongan",
+  "description": "Link Situs Judi Slot Online Paling Terbaik 2022",
   "keywords": [
-    "parlay Deposit bitcoin 5000",
-    "parlay Deposit Via bitcoin 5000",
-    "Situs parlay Deposit bitcoin",
-    "parlay Deposit bitcoin",
-    "parlay Via bitcoin 5ribu",
-    "parlay Deposit bitcoin Tanpa Potongan",
-    "parlay Deposit bitcoin Mudah Menang"
+    "slot Deposit pulsa 5000",
+    "slot Deposit Via pulsa 5000",
+    "Situs slot Deposit pulsa",
+    "slot Deposit pulsa",
+    "slot Via pulsa 5ribu",
+    "slot Deposit pulsa Tanpa Potongan",
+    "slot Deposit pulsa Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "agen-parlay-online-via-bitcoin-gacor:toggle"
+    "atom-workspace": "agen-slot-online-via-pulsa-mudah-menang:toggle"
   },
-  "repository": "https://github.com/gundolgundol/agen-parlay-bitcoin-gacor.git",
+  "repository": "https://github.com/layssmix/slot-via-pulsa-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
