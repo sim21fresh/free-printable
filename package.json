@@ -1,21 +1,21 @@
 {
-  "name": "poker-via-linkaja-mudah-menang",
-  "main": "./gundol/atom/020822/poker-via-pulsa-mudah-menang",
-  "version": "1.44.1",
-  "description": "Situs Bandar Judi Poker Online Deposit Pulsa Terbaik Indonesia",
+  "name": "judi-bola-via-kripto-5k",
+  "main": "./gundol/atom/92122/judi-bola-via-kripto",
+  "version": "1.60.8",
+  "description": "Situs Bandar Judi Poker Online Deposit kripto Terbaik Indonesia",
   "keywords": [
-    "IDN Poker Deposit pulsa 5000",
-    "IDN Poker Deposit Via pulsa 5000",
-    "Situs IDN Poker Deposit pulsa",
-    "IDN Poker Deposit pulsa",
-    "IDN Poker Via pulsa 5ribu",
-    "IDN Poker Deposit pulsa Tanpa Potongan",
-    "IDN Poker Deposit pulsa Mudah Menang"
+    "Judi Bola Deposit kripto 5000",
+    "Judi Bola Deposit Via kripto 5000",
+    "Situs Judi Bola Deposit kripto",
+    "Judi Bola Deposit kripto",
+    "Judi Bola Via kripto 5ribu",
+    "Judi Bola Deposit kripto Tanpa Potongan",
+    "Judi Bola Deposit kripto Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "agen-poker-online-via-pulsa-mudah-menang:toggle"
+    "atom-workspace": "judi-bola-online-parlay-via-kripto-mudah-menang:toggle"
   },
-  "repository": "https://github.com/layssmix/poker-via-pulsa-mudah-menang.git",
+  "repository": "https://github.com/layssmix/judi-bola-via-kripto.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
