@@ -1,21 +1,21 @@
 {
-  "name": "judi-bola-via-kripto-hoki",
-  "main": "./gundol/atom/92122/judi-bola-via-kripto",
-  "version": "1.61.1",
-  "description": "Situs Bandar Judi Poker Online Deposit kripto Terbaik Indonesia",
+  "name": "tembak-ikan-via-pulsa-gampang-menang",
+  "main": "./gundol/atom/92422/tembak-ikan-via-pulsa-mudah-menang",
+  "version": "1.61.4",
+  "description": "Agen Judi Tembak Ikan Joker123 Deposit Pulsa Mudah Menang 2022",
   "keywords": [
-    "Judi Bola Deposit kripto 5000",
-    "Judi Bola Deposit Via kripto 5000",
-    "Situs Judi Bola Deposit kripto",
-    "Judi Bola Deposit kripto",
-    "Judi Bola Via kripto 5ribu",
-    "Judi Bola Deposit kripto Tanpa Potongan",
-    "Judi Bola Deposit kripto Mudah Menang"
+    "Tembak Ikan Deposit Pulsa 5000",
+    "Tembak Ikan Deposit Via Pulsa 10000",
+    "Situs Tembak Ikan Deposit Pulsa",
+    "Tembak Ikan Deposit Pulsa",
+    "Tembak Ikan Via Pulsa 5ribu",
+    "Tembak Ikan Deposit Pulsa Tanpa Potongan",
+    "Tembak Ikan Deposit Pulsa Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "judi-bola-online-parlay-via-kripto-mudah-menang:toggle"
+    "atom-workspace": "judi-tembak-ikan-joker123-via-pulsa-mudah-menang:toggle"
   },
-  "repository": "https://github.com/layssmix/judi-bola-via-kripto.git",
+  "repository": "https://github.com/layssmix/tembak-ikan-via-pulsa-mudah-menang.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
