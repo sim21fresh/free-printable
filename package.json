@@ -1,8 +1,8 @@
 {
-  "name": "slot-hoki-via-pulsa",
-  "main": "./gundol/atom/92422/slot-hoki-via-linkaja",
+  "name": "slot-depo-linkaja-5rb-tanpa-potongan",
+  "main": "./gundol/atom/92422/slot-depo-linkaja-5rb",
   "version": "1.67.1",
-  "description": "Agen Judi Slot Online Gacor Deposit linkaja Paling Hoki 2022",
+  "description": "Link Alternatif Slot Online Depo Linkaja 5rb 5000 Tanpa Potongan",
   "keywords": [
     "Slot Online Deposit linkaja 5000",
     "Slot Online Deposit depo linkaja 10000",
@@ -13,9 +13,9 @@
     "Slot Online Deposit linkaja Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "judi-slot-online-hoki-deposit-via-linkaja:toggle"
+    "atom-workspace": "judi-slot-online-depo-linkaja-tanpa-potongan:toggle"
   },
-  "repository": "https://github.com/layssmix/slot-hoki-via-linkaja.git",
+  "repository": "https://github.com/layssmix/slot-depo-linkaja-5rb.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
