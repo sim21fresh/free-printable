@@ -1,21 +1,21 @@
 {
-  "name": "tembak-ikan-via-pulsa-gampang-menang",
-  "main": "./gundol/atom/92422/tembak-ikan-via-pulsa-mudah-menang",
-  "version": "1.61.4",
-  "description": "Agen Judi Tembak Ikan Joker123 Deposit Pulsa Mudah Menang 2022",
+  "name": "slot-depo-linkaja-anti-kalah",
+  "main": "./gundol/atom/92422/slot-depo-linkaja-anti-rungkad",
+  "version": "1.65.0",
+  "description": "Agen Judi Slot Online Gacor Deposit linkaja Anti Rungkad 2022",
   "keywords": [
-    "Tembak Ikan Deposit Pulsa 5000",
-    "Tembak Ikan Deposit Via Pulsa 10000",
-    "Situs Tembak Ikan Deposit Pulsa",
-    "Tembak Ikan Deposit Pulsa",
-    "Tembak Ikan Via Pulsa 5ribu",
-    "Tembak Ikan Deposit Pulsa Tanpa Potongan",
-    "Tembak Ikan Deposit Pulsa Mudah Menang"
+    "Slot Online Deposit linkaja 5000",
+    "Slot Online Deposit depo linkaja 10000",
+    "Situs Slot Online Deposit linkaja",
+    "Slot Online Deposit linkaja",
+    "Slot Online depo linkaja 5ribu",
+    "Slot Online Deposit linkaja Tanpa Potongan",
+    "Slot Online Deposit linkaja Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "judi-tembak-ikan-joker123-via-pulsa-mudah-menang:toggle"
+    "atom-workspace": "judi-slot-online-depo-linkaja-anti-rungkad:toggle"
   },
-  "repository": "https://github.com/layssmix/tembak-ikan-via-pulsa-mudah-menang.git",
+  "repository": "https://github.com/layssmix/slot-depo-linkaja-anti-rungkad.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
