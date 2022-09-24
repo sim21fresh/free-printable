@@ -1,8 +1,8 @@
 {
-  "name": "slot-depo-linkaja-anti-rungkad",
-  "main": "./gundol/atom/92422/slot-depo-linkaja-anti-rungkad",
+  "name": "slot-hoki-via-linkaja-5k",
+  "main": "./gundol/atom/92422/slot-hoki-via-linkaja",
   "version": "1.66.1",
-  "description": "Agen Judi Slot Online Gacor Deposit linkaja Anti Rungkad 2022",
+  "description": "Agen Judi Slot Online Gacor Deposit linkaja Paling Hoki 2022",
   "keywords": [
     "Slot Online Deposit linkaja 5000",
     "Slot Online Deposit depo linkaja 10000",
@@ -13,9 +13,9 @@
     "Slot Online Deposit linkaja Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "judi-slot-online-depo-linkaja-anti-rungkad:toggle"
+    "atom-workspace": "judi-slot-online-hoki-deposit-via-linkaja:toggle"
   },
-  "repository": "https://github.com/layssmix/slot-depo-linkaja-anti-rungkad.git",
+  "repository": "https://github.com/layssmix/slot-hoki-via-linkaja.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
