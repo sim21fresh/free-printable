@@ -1,21 +1,21 @@
 {
-  "name": "slot-depo-linkaja-5rb",
-  "main": "./gundol/atom/92422/slot-depo-linkaja-5rb",
+  "name": "situs-slot-hoki-via-ovo-5rb",
+  "main": "./gundol/atom/92422/situs-slot-gacor-via-ovo-5rb",
   "version": "1.68.1",
-  "description": "Link Alternatif Slot Online Depo Linkaja 5rb 5000 Tanpa Potongan",
+  "description": "Link Alternatif Slot Online Depo ovo 5rb 5000 Tanpa Potongan",
   "keywords": [
-    "Slot Online Deposit linkaja 5000",
-    "Slot Online Deposit depo linkaja 10000",
-    "Situs Slot Online Deposit linkaja",
-    "Slot Online Deposit linkaja",
-    "Slot Online depo linkaja 5ribu",
-    "Slot Online Deposit linkaja Tanpa Potongan",
-    "Slot Online Deposit linkaja Mudah Menang"
+    "Slot Online Deposit ovo 5000",
+    "Slot Online Deposit depo ovo 10000",
+    "Situs Slot Online Deposit ovo",
+    "Slot Online Deposit ovo",
+    "Slot Online depo ovo 5ribu",
+    "Slot Online Deposit ovo Tanpa Potongan",
+    "Slot Online Deposit ovo Mudah Menang"
   ],
   "activationCommands": {
-    "atom-workspace": "judi-slot-online-depo-linkaja-tanpa-potongan:toggle"
+    "atom-workspace": "judi-slot-online-depo-ovo-tanpa-potongan:toggle"
   },
-  "repository": "https://github.com/layssmix/slot-depo-linkaja-5rb.git",
+  "repository": "https://github.com/layssmix/situs-slot-gacor-via-ovo-5rb.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
